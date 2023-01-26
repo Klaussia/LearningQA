@@ -1,3 +1,5 @@
+package Test_1;
+
 import org.junit.jupiter.api.Assertions;
 
 public class MainTest {

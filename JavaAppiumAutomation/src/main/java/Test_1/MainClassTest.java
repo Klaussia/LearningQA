@@ -1,3 +1,5 @@
+package Test_1;
+
 import org.junit.jupiter.api.Test;
 
 public class MainClassTest extends MainTest {
